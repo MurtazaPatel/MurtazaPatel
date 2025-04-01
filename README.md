@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MurtazaPatel
-- 👀 I’m interested in BLockchain and cryptocurrency development
+- 👀 I’m interested in Blockchain and cryptocurrency development
 - 🌱 I’m currently learning BLockchain and cryptocurrency development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email id : 'murtazapatel05@gmail.com'
